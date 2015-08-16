@@ -1,0 +1,12 @@
+http://ianjung1974.blogspot.tw/2008/07/google-maps-api.html
+http://cocboso.com/subject/about/16372.html
+http://jimmyyen.blogspot.tw/2010/05/google-ajax-api-api-key.html
+https://developers.google.com/places/
+http://visionsky.blog.51cto.com/733317/554879
+https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete
+
+https://developers.google.com/maps/documentation/javascript/places
+
+http://blueswen1993.blogspot.tw/2014/07/google-map-gps.html
+
+https://developers.google.com/places/supported_types
